@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elayashy</h1>
-<a href="https://ibb.co/SJ3xh1r"><img src="https://i.ibb.co/YbLWzKZ/arto-marttinen-a2ntpw5-HJgg-unsplash.jpg" alt="arto-marttinen-a2ntpw5-HJgg-unsplash" border="0"></a>
+<a href="https://ibb.co/SJ3xh1r"><img width=100% src="https://i.ibb.co/YbLWzKZ/arto-marttinen-a2ntpw5-HJgg-unsplash.jpg" alt="arto-marttinen-a2ntpw5-HJgg-unsplash" border="0"></a>
 <h3 align="center">A passionate Software developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanelayashy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanelayashy" /> </p>
